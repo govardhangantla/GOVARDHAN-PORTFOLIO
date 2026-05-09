@@ -30,7 +30,7 @@ Make sure you have Node.js installed on your machine.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/govardhangantla/portfolio.git
+   git clone https://github.com/govardhangantla/GOVARDHAN-PORTFOLIO.git
    ```
 
 2. Install dependencies:
